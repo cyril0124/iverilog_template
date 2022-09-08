@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Sep 07 17:10:01 2022
+[*]
+[dumpfile] "D:\FPGA\verilog\i2c_slave_cyril\build\test_tb_20220908_010951.vcd"
+[dumpfile_mtime] "Wed Sep 07 17:09:51 2022"
+[dumpfile_size] 1404
+[savefile] "D:\FPGA\verilog\i2c_slave_cyril\build\wave.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-7.315313 359 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 414
+[sst_expanded] 1
+[sst_vpaned_height] 321
+@28
+test_tb.u_temp.clk
+test_tb.u_test.clk
+@22
+test_tb.u_test.data[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
