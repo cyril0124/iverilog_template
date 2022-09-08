@@ -1,7 +1,10 @@
 //编译源文件位置
 ./tb/test_tb.v
-./tb/temp.v
+./tb/stimulus_signal.v
 ./src/test.v
+./src/sync.v
+./src/filter.v
+./src/edge_detect.v
 
 
 +incdir+./src
